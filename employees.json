@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "name": "Jacek Ruszkowski",
+      "email": "jac.ruszkowski@gmail.com",
+      "phone": "508-897-123",
+      "salary": "1200 PLN"
+    },
+    {
+      "name": "Tymon Ruszkowski",
+      "email": "tymek@gmail.com",
+      "phone": "987-852-123",
+      "salary": "15000 PLN"
+    },
+    {
+      "name": "Jan Kowalski",
+      "email": "jkowalski@wp.pl",
+      "phone": "458542565",
+      "salary": "15000"
+    },
+    {
+      "name": "Dorota Nycz",
+      "email": "dorota@gmail.com",
+      "phone": "555 878 454",
+      "salary": "7800"
+    }
+  ]
+}
